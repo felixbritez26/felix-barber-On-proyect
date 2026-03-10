@@ -21,6 +21,7 @@ flask-sqlalchemy = "*"
 flask-jwt-extended = "*"
 psycopg2-binary = "*"
 flask-cors = "*"
+requests = "*"
 
 [requires]
 python_version = "3.13"
