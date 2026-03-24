@@ -13,6 +13,21 @@ BarberOn is a full-stack platform that helps users find nearby barbers using an 
 The goal of the project is to simplify the process of finding barbers nearby and modernize the booking experience.
 
 ---
+<img width="572" height="876" alt="image" src="https://github.com/user-attachments/assets/4ff92705-6ec3-420b-8747-af8f0ce30dab" />
+<img width="530" height="749" alt="image" src="https://github.com/user-attachments/assets/3fbd2c0b-67fa-42e6-a260-0f720dfff40e" />
+
+<img width="578" height="897" alt="image" src="https://github.com/user-attachments/assets/f2753ef8-9df8-4445-bfb5-25195f767b0d" />
+
+<img width="570" height="878" alt="image" src="https://github.com/user-attachments/assets/c22022ad-fde6-48da-afed-218d1d205c90" />
+
+<img width="656" height="880" alt="image" src="https://github.com/user-attachments/assets/b141325a-ebb9-495f-9893-692a22adbb61" />
+
+<img width="645" height="918" alt="image" src="https://github.com/user-attachments/assets/20bb7991-7747-4fed-a3bd-8f8c82404c1e" />
+
+<img width="564" height="879" alt="image" src="https://github.com/user-attachments/assets/6613a6df-22e3-451b-abbb-a95fac962c26" />
+
+<img width="564" height="870" alt="image" src="https://github.com/user-attachments/assets/ef6c3041-e21d-4ca8-8425-44af278f1e10" />
+
 
 ## Main Features
 
@@ -84,7 +99,7 @@ Responsible for:
 
 ### Clone the repository
 
-git clone https://github.com/your-username/barberon.git
+git clone git clone https://github.com/felixbrite26/felix-barber-On-project.git
 
 ---
 
