@@ -12,7 +12,8 @@ BarberOn is a full-stack platform that helps users find nearby barbers using an 
 
 The goal of the project is to simplify the process of finding barbers nearby and modernize the booking experience.
 ## 🎥 Demo Video
-https://www.youtube.com/watch?v=xQHVvW3puyM
+
+[![Watch Demo](https://img.youtube.com/vi/xQHVvW3puyM/0.jpg)](https://www.youtube.com/watch?v=xQHVvW3puyM)
 ---
 <img width="572" height="876" alt="image" src="https://github.com/user-attachments/assets/4ff92705-6ec3-420b-8747-af8f0ce30dab" />
 <img width="530" height="749" alt="image" src="https://github.com/user-attachments/assets/3fbd2c0b-67fa-42e6-a260-0f720dfff40e" />
