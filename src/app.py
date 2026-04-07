@@ -111,7 +111,9 @@ def handle_invalid_usage(error):
 
 @app.errorhandler(500)
 def handle_500(err):
-    return jsonify({"msg": "Internal server error"}), 500
+    import traceback
+    traceback.print_exc()
+    return jsonify({"msg": str(err)}), 500
 
 
 # -----------------------------
@@ -137,5 +139,5 @@ def serve_any_other_file(path):
 # Run
 # -----------------------------
 if __name__ == "__main__":
-    PORT = int(os.environ.get("PORT", 3001))  # ✅ backend on 3001 by default
+    PORT = int(os.environ.get("PORT", 3001))
     app.run(host="0.0.0.0", port=PORT, debug=True)
